@@ -11,6 +11,6 @@
    ./ws4test.sh  john2  john1filec
    ./ws4test.sh  john3  john1filec
 ````
-
+To use this script you need to copy it to your home directory and add execute permission to yourself e.g. by issuing 'chmod u=rwx ws2test.sh'
 
 
